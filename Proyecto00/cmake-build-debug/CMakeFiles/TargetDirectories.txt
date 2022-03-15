@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Desktop/Clion/Proyecto00/cmake-build-debug/CMakeFiles/Proyecto00.dir
+C:/Users/julia/OneDrive/Desktop/Clion/Proyecto00/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Desktop/Clion/Proyecto00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
